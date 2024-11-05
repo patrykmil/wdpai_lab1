@@ -1,4 +1,0 @@
-FROM dpage/pgadmin4:latest
-
-ENV PGADMIN_DEFAULT_EMAIL=admin@ptrk.pp
-ENV PGADMIN_DEFAULT_PASSWORD=admin
